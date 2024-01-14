@@ -1,2 +1,2 @@
 # SwiftUICookbook
-Repository to practice the SwiftUICookbook examples
+Repository to practice the SwiftUI Cookbook examples
